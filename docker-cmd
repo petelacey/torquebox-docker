@@ -1,0 +1,2 @@
+bundle exec torquebox deploy
+bundle exec torquebox run --bind-address=0.0.0.0
